@@ -9,13 +9,6 @@
 
 - 👩‍💻 I'm most comfortable with **Python & Javascript**
 
-- 💖 I enjoy **Watching anime, playing games, and reading novels**
-
-- ✝️ I'm a proud **Christian**
-
-- ⚡ I still believe in Santa **( just kidding )**
-
-
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
