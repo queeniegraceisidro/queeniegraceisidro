@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=queeniegraceisidro&label=Profile%20views&color=0e75b6&style=flat" alt="queeniegraceisidro" /> </p>
 
-- 🖥️ I’m currently working on [CAOCAM-AI](https://caocam-ai.jp/en/)
-
-- 🖥️ As well as **other projects**
-
 - 👩‍💻 I'm most comfortable with **Python & Javascript**
 
 <br />
