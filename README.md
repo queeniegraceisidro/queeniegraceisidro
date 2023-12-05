@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Queenie Grace</h1>
-<h3 align="center">An aspiring Data Scientist from the Philippines 🇵🇭</h3>
 
 - 🇯🇵 I currently reside in Japan working as a full-stack developer
 - 👩‍💻 I'm most comfortable using **Python & Javascript**
