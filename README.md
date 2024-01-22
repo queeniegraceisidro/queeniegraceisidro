@@ -20,7 +20,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=queeniegraceisidro&show_icons=true&theme=cobalt" alt="queeniegraceisidro" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=queeniegraceisidro&show_icons=true&theme=cobalt" alt="queeniegraceisidro" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=queeniegraceisidro&theme=cobalt" alt="queeniegraceisidro" /></p>
 <h4 align="left">Frontend Development & Frameworks</h4>
 <p align="left">
