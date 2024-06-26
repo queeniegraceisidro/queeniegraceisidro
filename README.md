@@ -14,6 +14,7 @@ I'm a full-stack developer with more than 5 years experience in Software Develop
 - **Backend**: Python, Django, PHP, Laravel
 - **Databases**: PostgreSQL, MySQL
 - **DevOps**: CI/CD, Nginx, Apache
+- **OS**: Ubuntu, CentOS, AlmaLinux
 - **Others**: Git, RESTful APIs, GraphQL, Agile methodologies
 
 
